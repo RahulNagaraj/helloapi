@@ -1,0 +1,29 @@
+{
+  "name": "helloapi",
+  "version": "1.0.0",
+  "description": "Hello world API project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulNagaraj/helloapi.git"
+  },
+  "keywords": [
+    "API",
+    "development",
+    "nodejs"
+  ],
+  "author": "Rahul N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulNagaraj/helloapi/issues"
+  },
+  "homepage": "https://github.com/RahulNagaraj/helloapi#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15"
+  }
+}
